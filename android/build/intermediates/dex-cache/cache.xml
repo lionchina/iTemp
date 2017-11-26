@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-adc7b4b1306189c2dfbf2e758db4283192827079.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c352647cf4de6a584197465649ea8a76875bbfa">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-19265b9d6442f5cf24260b96316dc0bdb734a799.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e2caaf2383aeb597024b264ed0effc4520605dc0.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07b4097115bb7e68aa0123fd9fb6873c433f23a3">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-2bf6cae79b63c3d4e5cfea99724bd1fbf94f05bf.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-6486f2ee7610924e65413f6c0dfaa605deb9291b.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fbd300a294fd5ad1ecb0a25f956d6a318b6ce68e">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-f50eae2cc5d9e7a06cf0745beedf4ba07be60bc8.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-38c91472ba77f1d58cf1532acfef8f2bed610a80.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-868d0850feff358d95f77e9965ead4f7358131c8.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04a5d6afa35725f00f27bf2cc6ac5e7e04914692">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-7149553e0639695c56d89256f8c21d4bb8eed8bd.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-35f68b2418b269557cbc87d18718e73959599204.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0ff265b4141de70fb2637f818787b53a245ce967">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-fe5673a947646687670b0c5cb144b726a5c08eef.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-1f1a10c746763d9c939118999963d20db3114f57.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base-support/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-691d36b1e33a8378cbfc4d14582932998c7688ab.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-8e54750909ac6fe5b71363b1fd3d716ca06740ff.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-fd1a4cc979ec70ed001b75679fc13aa44d6882e7.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-3d7b585c71d80c74be769eeb0f82140e38bc96e8.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-5e8add3254204a75c7d45b67f63df2b9bd0f6972.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-ebfaeedfbd78f3bdcacdf7aabcb96849171bda66.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-dfeea77569c51a61208452998d31c6c10f67bb4a.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-0f5d8e1cb22e243972010d46297aec1dd9af7001.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-17847441ef5a3880467ab58479cf93332e6ff497.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82da2e1fff613de7a111e04c38f9c7e654ef3116">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-9ee2d2d5da41d46b86e16e27728110a811752af6.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-87c2377d113aca352e48f9f9b6f4173281a97371.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-5723083dbfaab5a22012f24eeb41ce4187c10735.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-a2b325fc6b11860813f0c5a928602e152383222e.jar" />
+    </item>
+    <item
+        jar="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/chenxiupeng/Downloads/iTemp/android/app/build/intermediates/pre-dexed/debug/classes-9328d7f5eb02d50ddc22e55fbef46ceca255fcd9.jar" />
+    </item>
+
+</items>
